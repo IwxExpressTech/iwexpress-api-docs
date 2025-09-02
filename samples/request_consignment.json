@@ -1,0 +1,29 @@
+{
+  "cod_amount": "100",
+  "currency": "SAR",
+  "cod_collection_mode": "cash",
+  "cod_favor_of": "test",
+  "consignment_type": "FORWARD",
+  "customer_code": "TESTSHOP",
+  "customer_reference_number": "296163865",
+  "customer_civil_id": "23333333",
+  "receiver_civil_id": "466655557",
+  "declared_value": 100,
+  "description": "Gift",
+  "destination_details": {
+    "address_line_1": "house 61 Block 5, street 517",
+    "address_line_2": "LF Logistics/Mohebi Logistics, Plot",
+    "city": "Jeddah",
+    "country": "KSA",
+    "name": "Khalid",
+    "phone": "string",
+    "pincode": "91710",
+    "state": "KSA"
+  },
+  "dimension_unit": "CM",
+  "height": "5",
+  "length": "10",
+  "weight": 1.2,
+  "weight_unit": "KG",
+  "width": "200"
+}

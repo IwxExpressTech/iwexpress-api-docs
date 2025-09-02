@@ -1,0 +1,60 @@
+# Client Status Update Webhook
+
+### Domestic Events
+- accept
+- added_to_bag
+- assigned_for_delivery
+- assigned_to_hub
+- attempted
+- bag_received
+- cancelled
+- consignment_verification
+- customs_clearance_completed
+- delay_at_airport
+- delivered
+- delivery_pod
+- deps_exception
+- exception
+- handed_in_customs_clearance
+- handover_courier_partner
+- inscan_at_hub
+- intransittohub
+- lost
+- not_picked_up
+- on_hold
+- out_for_pickup
+- out_for_store_pickup
+- outscan_at_hub
+- pickup_awaited
+- pickup_completed
+- pickup_scheduled
+- reachedathub
+- release_on_hold
+- reschedule
+- returned_at_hub
+- revert_from_delivered
+- revoke_rto
+- rto
+- rto_attempted
+- rto_delivered
+- rto_in_transit
+- rto_initiated
+- rto_inscan_at_hub
+- rto_outfordelivery
+- seized
+- shelved
+- softdata_upload
+- vehicle_arrived
+
+### Cross-Border Events
+- on_hold
+- release_on_hold
+- pickup_completed
+- delivered
+- attempted
+- rto
+- cancel
+- shipment_clear_successfully
+- intransit_to_hub
+- reached_at_hub
+- inscan_at_hub
