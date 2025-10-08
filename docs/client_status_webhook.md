@@ -77,17 +77,3 @@ In each payload, the event identifier appears in the `type` field.
 
 ---
 
-## Example (payload shape – illustrative)
-
-> The actual webhook payload from Shopini Express will include `type` and additional fields.  
-> This example is **illustrative only** to show where `type` appears.
-
-```json
-{
-  "type": "delivered",
-  "tracking_number": "TRK12345",
-  "occurred_at": "2024-02-20T10:09:33Z",
-  "data": {
-    "notes": null
-  }
-}
